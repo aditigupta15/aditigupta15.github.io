@@ -1,5 +1,5 @@
 ---
-title: Let's Get Clarity
+title: Let's get clarity
 image: images/writer.jpeg
 menu:
   main:
