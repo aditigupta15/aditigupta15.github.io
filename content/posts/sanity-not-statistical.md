@@ -1,49 +1,28 @@
 ---
-title: Sanity is not statistical
-date: 2018-12-29
-description: 'Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own'
-image: images/cctv2.jpeg
+title: Literacy versus Education
+date: 2022-01-27
+
 ---
+Being an academician, I would love to talk about a topic closest to my heart.
+Acquiring degrees, being able to read and write, does not make you educated! 
+Well, I mean it. 
 
-# There was no way of knowing whose version would finally be adopted
+I am sure you have seen this- a queue of professionals waiting for a metro during the busiest hours,
+get pushing into each other as soon as the metro arrives. Or a very smart graduate man
+breaking into a ruthless argument over streets. Well, if you are thinking that it is about
+etiquettes, attitude, behaviour, then yes you are right. 
+Lets look at the other extreme- I had a house help at my home for about 30 years, who has never even 
+been to a primary school, has taught me lessons for life- honesty, integrity, hard work. May be
+she could not "achieve" a lot in terms of wealth or success as the world defines it, but
+in my sight, she is a real human being.
 
-Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
+The idea here I want to explain is that your textbooks don't edify you. Education has
+more to do with morality, judgements, analysis and overall being. All the students
+who study and graduate from a same class, taught by the same teacher, still comprehend
+differently, and all of them are distinct individuals altogether. Institutional learning is
+limited in its capacity and it's only the exposure to events or risks you take that teaches you
+lessons worth holding for life. It makes you wise, moral and distinct. 
 
-## Mare torrentur
+Do not limit yourself to school training. Broaden your horizons, observe more, and learn from everyone and 
+everywhere, and lastly, do not fear experimenting. Cultivate morals and follow principles that make you _YOU_ .
 
-Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus,
-evocet pectus, _nube_. In templo taedia [google](https://google.com) alter sic
-regina pulchra rexerat. Corbe est et, **invectae** pariter ignara quod senes:
-sectus his tamen. Hora graves iam prospiciunt, subito spargit germanam _utve_,
-inmeritas frontemque tempora. Frustra stratosque possim trepidare squamis, os,
-tum ipse prodesse acuta Phobetora e viscera, munera!
-
-- Peraravit Themis deserat et stetit taedae quodcumque
-- Grave invitae usque et terraque
-- Spargitque hi dixi
-- Danais oris Ulixes
-
-![Street Art Image](https://source.unsplash.com/GqpbdngfiLo/600x400)
-
-## Siqua transieram in parte
-
-Relicto solusque saepe dato imas [ea](#non-mea) dixit nullum, rumor addit in
-lacertos. Sparsos ceu geminam crimen femineae mater Minervae.
-
-### Utinam fratresque quem
-
-posuitque** nitenti utinam fratresque quem accede **tibi** et semianimes. Agmine
-prohibebant tuas venerit natus per sicut Aoniis dixit sedens scelus, alios.
-Segetes et **ora mala\*\* Iuppiter remotus, non penates quam pro, urbis repulsae
-insolida tantis sacerdos: et.
-
-- Vultum superatus Baccho ferre
-- Massa arreptamque fluet portas
-- Quaesita si medio virtute nunc ipse extremum
-- Gaudet bubo factorum
-
-Dona domus, certe populis, herbas rettulit curvantur Aeneas sequentur inferiora
-rupit, inque illa [passibus grave coronantur](#horto-in-te) nectare. Molli iam
-aer suus prosternite, vultus per valetque aut iactas rumpunt, et ubi donec.
-Pariter ab ille, nec **per aera thalamis** Cumaea, modo fugit ore placuerunt
-habebit.
