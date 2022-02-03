@@ -26,3 +26,7 @@ lessons worth holding for life. It makes you wise, moral and distinct.
 Do not limit yourself to school training. Broaden your horizons, observe more, and learn from everyone and 
 everywhere, and lastly, do not fear experimenting. Cultivate morals and follow principles that make you _YOU_ .
 
+
+
+_Aditi_
+
