@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aditigupta.info/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Literacy versus Education</title>
-      <link>https://aditigupta.info/posts/education-vs-literacy/</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aditigupta.info/posts/education-vs-literacy/</guid>
-      <description>Being an academician, I would love to talk about a topic closest to my heart. Acquiring degrees, being able to read and write, does not make you educated! Well, I mean it.
-I am sure you have seen this- a queue of professionals waiting for a metro during the busiest hours, get pushing into each other as soon as the metro arrives. Or a very smart graduate man breaking into a ruthless argument over streets.</description>
-    </item>
-    <item>
       <title>Fool can create a paradise</title>
       <link>https://aditigupta.info/posts/fools-can-create-a-paradise/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
@@ -25,6 +16,17 @@ I am sure you have seen this- a queue of professionals waiting for a metro durin
       <description>Human brain is the most powerful machine that can ever exist. While the minds have potential to 
 transform electrons into energy, it comes with a natural tendency to play safe.</description>
     </item>
+    
+    <item>
+      <title>Literacy versus Education</title>
+      <link>https://aditigupta.info/posts/education-vs-literacy/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aditigupta.info/posts/education-vs-literacy/</guid>
+      <description>Being an academician, I would love to talk about a topic closest to my heart. Acquiring degrees, being able to read and write, does not make you educated! Well, I mean it.
+I am sure you have seen this- a queue of professionals waiting for a metro during the busiest hours, get pushing into each other as soon as the metro arrives. Or a very smart graduate man breaking into a ruthless argument over streets.</description>
+    </item>
+    
     
   </channel>
 </rss>
