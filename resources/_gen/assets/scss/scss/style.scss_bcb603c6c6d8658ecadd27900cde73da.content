@@ -39,11 +39,7 @@ h1, h2, h3 {
     margin-right: 30px; }
 
 .menu-main {
-  display: none;
-  flex: 0; }
-  @media (min-width: 767px) {
-    .menu-main {
-      display: block; } }
+  display: block; }
   .menu-main > ul {
     display: flex;
     align-items: center;
@@ -105,6 +101,8 @@ ul {
     list-style: none; }
 
 .content {
+  display: flex;
+  text-align: justify;
   font-size: 18px; }
   .content p {
     font-size: 18px;
