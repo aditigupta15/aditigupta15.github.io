@@ -101,7 +101,7 @@ ul {
     list-style: none; }
 
 .content {
-  display: flex;
+  display: block;
   text-align: justify;
   font-size: 18px; }
   .content p {
